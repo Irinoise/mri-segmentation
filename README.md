@@ -15,3 +15,4 @@ The developed models were applied on a dataset with pathological structures. Plo
 [📖 HSE_final_project_text.pdf](HSE_final_project_text.pdf)
 
 ## The presentation (in Russian): 
+[🎤 HSE_final_project_presentation.mp4](HSE_final_project_presentation.mp4)
