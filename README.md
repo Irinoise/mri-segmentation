@@ -12,6 +12,6 @@ Two of them with the highest results (DICE > 0.9) were selected:
 The developed models were applied on a dataset with pathological structures. Plots of volume distributions of the structures were built and analyzed.
 
 ## The thesis describing the results (in Russian): 
-[HSE_final_project_text.pdf](HSE_final_project_text.pdf)
+[📖 HSE_final_project_text.pdf](HSE_final_project_text.pdf)
 
 ## The presentation (in Russian): 
