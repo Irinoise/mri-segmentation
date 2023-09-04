@@ -1,6 +1,6 @@
 # Brain MRI segmentation
 
-This repo includes the results of the final project as a part of the annual retraining program called "Machine Learning for University Teachers" (HSE, 2021). 
+This repo includes the results of the final project as a part of the one-year retraining program called "Machine Learning for University Teachers" (HSE, 2021). 
 
 The aim of the project was developing a neural network which will be able to detect 5 groups of brain structures, such as ventricles, amygdala, brainstem, hippocampus and gray matter. 
 
