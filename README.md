@@ -11,6 +11,9 @@ Two of them with the highest results (DICE > 0.9) were selected:
 
 The developed models were applied on a dataset with pathological structures. Plots of volume distributions of the structures were built and analyzed.
 
+## The implementation on Colaboratory: 
+[💻 MRI_segmentation.ipynb](https://colab.research.google.com/drive/11dD55rwVZXmA4k7VaytHxFs90dOpKk1c?usp=sharing)
+
 ## The thesis describing the results (in Russian): 
 [📖 HSE_final_project_text.pdf](HSE_final_project_text.pdf)
 
